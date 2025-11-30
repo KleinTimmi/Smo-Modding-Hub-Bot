@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Super-Mario-Odyssey\\SMO-Modding-Hub-Bot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F96F7605-88CD-4D6D-BDEE-655236E7A73F}|SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj|g:\\super-mario-odyssey\\smo-modding-hub-bot\\smo-modding-hub-bot\\commands\\rescource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96F7605-88CD-4D6D-BDEE-655236E7A73F}|SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj|solutionrelative:smo-modding-hub-bot\\commands\\rescource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96F7605-88CD-4D6D-BDEE-655236E7A73F}|SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj|g:\\super-mario-odyssey\\smo-modding-hub-bot\\smo-modding-hub-bot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96F7605-88CD-4D6D-BDEE-655236E7A73F}|SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj|solutionrelative:smo-modding-hub-bot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96F7605-88CD-4D6D-BDEE-655236E7A73F}|SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj|g:\\super-mario-odyssey\\smo-modding-hub-bot\\smo-modding-hub-bot\\smo-modding-hub-bot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F96F7605-88CD-4D6D-BDEE-655236E7A73F}|SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj|solutionrelative:smo-modding-hub-bot\\smo-modding-hub-bot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96F7605-88CD-4D6D-BDEE-655236E7A73F}|SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj|g:\\super-mario-odyssey\\smo-modding-hub-bot\\smo-modding-hub-bot\\config\\jsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96F7605-88CD-4D6D-BDEE-655236E7A73F}|SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj|solutionrelative:smo-modding-hub-bot\\config\\jsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96F7605-88CD-4D6D-BDEE-655236E7A73F}|SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj|g:\\super-mario-odyssey\\smo-modding-hub-bot\\smo-modding-hub-bot\\config\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F96F7605-88CD-4D6D-BDEE-655236E7A73F}|SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj|solutionrelative:smo-modding-hub-bot\\config\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rescource.cs",
+              "DocumentMoniker": "G:\\Super-Mario-Odyssey\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\Commands\\Rescource.cs",
+              "RelativeDocumentMoniker": "SMO-Modding-Hub-Bot\\Commands\\Rescource.cs",
+              "ToolTip": "G:\\Super-Mario-Odyssey\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\Commands\\Rescource.cs",
+              "RelativeToolTip": "SMO-Modding-Hub-Bot\\Commands\\Rescource.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwHQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T21:58:45.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "jsonreader.cs",
+              "DocumentMoniker": "G:\\Super-Mario-Odyssey\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\config\\jsonreader.cs",
+              "RelativeDocumentMoniker": "SMO-Modding-Hub-Bot\\config\\jsonreader.cs",
+              "ToolTip": "G:\\Super-Mario-Odyssey\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\config\\jsonreader.cs",
+              "RelativeToolTip": "SMO-Modding-Hub-Bot\\config\\jsonreader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T21:29:22.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Config.json",
+              "DocumentMoniker": "G:\\Super-Mario-Odyssey\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\config\\Config.json",
+              "RelativeDocumentMoniker": "SMO-Modding-Hub-Bot\\config\\Config.json",
+              "ToolTip": "G:\\Super-Mario-Odyssey\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\config\\Config.json",
+              "RelativeToolTip": "SMO-Modding-Hub-Bot\\config\\Config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-29T21:27:55.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Super-Mario-Odyssey\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\Program.cs",
+              "RelativeDocumentMoniker": "SMO-Modding-Hub-Bot\\Program.cs",
+              "ToolTip": "G:\\Super-Mario-Odyssey\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\Program.cs",
+              "RelativeToolTip": "SMO-Modding-Hub-Bot\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwCYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:23:22.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SMO-Modding-Hub-Bot.csproj",
+              "DocumentMoniker": "G:\\Super-Mario-Odyssey\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj",
+              "RelativeDocumentMoniker": "SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj",
+              "ToolTip": "G:\\Super-Mario-Odyssey\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj",
+              "RelativeToolTip": "SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAEwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-29T18:22:13.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
