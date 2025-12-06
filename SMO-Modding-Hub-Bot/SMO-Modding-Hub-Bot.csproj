@@ -19,4 +19,12 @@
     <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="10.0.0" />
   </ItemGroup>
 
+	<ItemGroup>
+		<!-- Alle WAV-Dateien aus Sound -->
+		<Content Include="Stuff\Sound\**\**\*.wav">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+	</ItemGroup>
+
+
 </Project>

@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Newtonsoft.Json;
+﻿using Microsoft.Extensions.Logging;
 
 namespace SMO_Modding_Hub_Bot.config
 {
@@ -11,6 +6,7 @@ namespace SMO_Modding_Hub_Bot.config
     {
         public string token { get; set; }
         public string prefix { get; set; }
+        public List<ulong> admins { get; set; }
 
         public async Task ReadJson()
         {
@@ -20,6 +16,10 @@ namespace SMO_Modding_Hub_Bot.config
                 JSONStructure jsonData = System.Text.Json.JsonSerializer.Deserialize<JSONStructure>(json);
                 this.token = jsonData.token;
                 this.prefix = jsonData.prefix;
+                this.admins = jsonData.admins;
+#if !RELEASE
+                Console.WriteLine(Util.AnsiAttribute.Green + "Config", "Configuration file loaded successfully." + Util.AnsiAttribute.Reset );
+#endif
             }
         }
     }
@@ -28,5 +28,6 @@ namespace SMO_Modding_Hub_Bot.config
     {
         public string token { get; set; }
         public string prefix { get; set; }
+        public List<ulong> admins { get; set; }
     }
 }

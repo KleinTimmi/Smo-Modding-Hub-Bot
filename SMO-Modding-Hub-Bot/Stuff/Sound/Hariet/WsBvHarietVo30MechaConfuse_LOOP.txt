@@ -1,0 +1,9 @@
+metadata for E:\Sounds\Super Mario Odyssey\()SeResourceStd2nd_Sorted\23 - WGateKeeperVoice\2144 - WsBvHarietVo30MechaConfuse.bfwav
+sample rate: 48000 Hz
+channels: 1
+loop start: 17724 samples (0.3693 seconds)
+loop end: 234354 samples (4.8824 seconds)
+stream total samples: 234354 (4.8824 seconds)
+encoding: Nintendo DSP 4-bit ADPCM
+layout: flat (no layout)
+metadata from: Nintendo FWAV header
