@@ -36,8 +36,7 @@ namespace SMO_Modding_Hub_Bot
             Client.Ready += OnClientReady;
             Client.GuildCreated += async (s, e) =>
             {
-                //these wired symbols are for coloring the console output (in this case Blue)
-                Client.Logger.LogInformation("\u001b[36mBot joined guild: {GuildName} ({GuildId})\u001b[0m", e.Guild.Name, e.Guild.Id);
+                Client.Logger.LogInformation(Util.Ansi.Cyan + "Bot joined guild: {GuildName} ({GuildId})" + Util.Ansi.Reset , e.Guild.Name, e.Guild.Id);
             };
 
             var commandsConfig = new CommandsNextConfiguration
@@ -71,7 +70,7 @@ namespace SMO_Modding_Hub_Bot
             #if !RELEASE
             SoundUtil.WriteToJson();
             #endif
-            Console.WriteLine(Util.AnsiAttribute.Green + "Commands registered" + Util.AnsiAttribute.Reset );
+            Console.WriteLine(Util.Ansi.Green + "Commands registered" + Util.Ansi.Reset );
 
             await Client.ConnectAsync();
 
@@ -83,7 +82,7 @@ namespace SMO_Modding_Hub_Bot
         private static Task OnClientReady(DiscordClient sender, DSharpPlus.EventArgs.ReadyEventArgs args)
         {
             //these wired symbols are for coloring the console output (in this case Green)
-            Console.WriteLine(Util.AnsiAttribute.Green + "Bot is online!" + Util.AnsiAttribute.Reset);
+            Console.WriteLine(Util.Ansi.Green + "Bot is online!" + Util.Ansi.Reset);
             return Task.CompletedTask;
         }
         #region Logging helper
@@ -104,14 +103,14 @@ namespace SMO_Modding_Hub_Bot
 
         private static Task LogSlashExecution(InteractionContext ctx)
         {
-            Client.Logger.LogInformation(Util.AnsiAttribute.Green + "{User} executed slash {Command} in {Channel} ({Guild})"+ Util.AnsiAttribute.Reset ,
+            Client.Logger.LogInformation(Util.Ansi.Green + "{User} executed slash {Command} in {Channel} ({Guild})"+ Util.Ansi.Reset ,
                 ctx.User.Username,
                 ctx.CommandName,
                 ctx.Channel.Name,
                 ctx.Guild?.Name ?? "DM");
 
             if (ExtraLogs.TryDequeue(out var extraLog))
-                Client.Logger.LogInformation(Util.AnsiAttribute.Cyan + extraLog + Util.AnsiAttribute.Reset );
+                Client.Logger.LogInformation(Util.Ansi.Cyan + extraLog + Util.Ansi.Reset );
 
             return Task.CompletedTask;
         }
@@ -120,7 +119,7 @@ namespace SMO_Modding_Hub_Bot
         private static Task LogCommandError(CommandErrorEventArgs e)
         {
             var ctx = e.Context;
-            Client.Logger.LogError(e.Exception, Util.AnsiAttribute.Red + "Error in command {Command} by {User}" + Util.AnsiAttribute.Reset,
+            Client.Logger.LogError(e.Exception, Util.Ansi.Red + "Error in command {Command} by {User}" + Util.Ansi.Reset,
                 ctx.Command?.Name,
                 ctx.User.Username);
             return Task.CompletedTask;
@@ -129,7 +128,7 @@ namespace SMO_Modding_Hub_Bot
         private static Task LogSlashError(SlashCommandErrorEventArgs e)
         {
             var ctx = e.Context;
-            var message = $"{Util.AnsiAttribute.Red}Error in slash command {ctx.CommandName} by {ctx.User.Username}\n{e.Exception}{Util.AnsiAttribute.Reset}";
+            var message = $"{Util.Ansi.Red}Error in slash command {ctx.CommandName} by {ctx.User.Username}\n{e.Exception}{Util.Ansi.Reset}";
             Client.Logger.LogError(message);
             return Task.CompletedTask;
         }
