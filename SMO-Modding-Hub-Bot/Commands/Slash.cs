@@ -24,7 +24,7 @@ namespace SMO_Modding_Hub_Bot.Commands
             if (ctx.Guild != null)
                 return $"{ctx.Guild.Id}_requests.txt";
             else
-                return "global_requests.txt"; // Fallback für DMs
+                return "global_requests.txt"; // Fallback for DMs
         }
 
 
@@ -68,7 +68,7 @@ namespace SMO_Modding_Hub_Bot.Commands
         #region Request Commands
             #region request
             [SlashCommand("request", "Request stuff")]
-            public async Task RequestCommand(InteractionContext ctx, [Option("test", "balls")] string test)
+            public async Task RequestCommand(InteractionContext ctx, [Option("request", "Your request text")] string test)
             {
                 if (string.IsNullOrWhiteSpace(test))
                 {
@@ -178,13 +178,12 @@ namespace SMO_Modding_Hub_Bot.Commands
 
                 var caps = data.Keys.Where(k => !k.EndsWith("_Explain")).ToList();
 
-                var random = new Random();
                 string capKey = caps[random.Next(caps.Count)];
 
                 string capName = data[capKey];
                 string capExplain = data[$"{capKey}_Explain"];
 
-                // Bild-URL dynamisch bauen
+                // Build image URL dynamically
                 string imageUrl = $"https://raw.githubusercontent.com/Amethyst-szs/smo-thumbnail-database/main/outfit/{capKey}Cap.png";
 
             await Util.EmbedHelper.SendEmbedAsync(ctx, capName, capExplain, imageUrl, visibleForAll);
@@ -206,7 +205,7 @@ namespace SMO_Modding_Hub_Bot.Commands
 
                 var outfits = data.Keys.Where(k => !k.EndsWith("_Explain")).ToList();
 
-                var random = new Random();
+                 
                 string outfitKey = outfits[random.Next(outfits.Count)];
 
                 string outfitName = data[outfitKey];
@@ -230,12 +229,12 @@ namespace SMO_Modding_Hub_Bot.Commands
             using var http = new HttpClient();
             string csv = await http.GetStringAsync(url);
 
-            // CSV in Zeilen zerlegen und die ersten 4 Metazeilen überspringen
+            // Split CSV into lines and skip the first 4 meta lines
             var lines = csv.Split('\n', StringSplitOptions.RemoveEmptyEntries)
                            .Skip(4)
                            .ToList();
 
-            // In Datensätze parsen: (InternalName, Description)
+            // Parse into records: (InternalName, Description)
             var rows = lines
                 .Select(l => l.Split(',', 2)) // max. 2 Teile: Name, Description
                 .Where(p => p.Length >= 1 && !string.IsNullOrWhiteSpace(p[0]))
@@ -245,11 +244,11 @@ namespace SMO_Modding_Hub_Bot.Commands
                 })
                 .ToList();
 
-            // Optional nur Home-Stages
+            // Optionally restrict to Home stages
             if (onlyHome)
                 rows = rows.Where(r => r.Name.EndsWith("WorldHomeStage", StringComparison.Ordinal)).ToList();
 
-            // Falls nach dem Filter nichts übrig ist
+            // If nothing remains after filtering
             if (rows.Count == 0)
             {
                 await ctx.CreateResponseAsync(
@@ -263,8 +262,8 @@ namespace SMO_Modding_Hub_Bot.Commands
 
 
 
-            // Zufällige Auswahl
-            var random = new Random();
+            // Random selection
+             
             var pick = rows[random.Next(rows.Count)];
 
             string imageUrl = $"https://raw.githubusercontent.com/Amethyst-szs/smo-thumbnail-database/main/low/{pick.Name}.jpg";
@@ -288,12 +287,12 @@ namespace SMO_Modding_Hub_Bot.Commands
                 using var http = new HttpClient();
                 string csv = await http.GetStringAsync(url);
 
-                // CSV in Zeilen zerlegen und die ersten 4 Metazeilen überspringen
+                // Split CSV into lines and skip the first 4 meta lines
                 var lines = csv.Split('\n', StringSplitOptions.RemoveEmptyEntries)
                                 .Skip(4)
                                 .ToList();
 
-                // In Datensätze parsen: (InternalName, Description)
+                // Parse into records: (InternalName, Description)
                 var rows = lines
                     .Select(l => l.Split(',', 2))
                     .Where(p => p.Length >= 1 && !string.IsNullOrWhiteSpace(p[0]))
@@ -303,7 +302,7 @@ namespace SMO_Modding_Hub_Bot.Commands
                     })
                     .ToList();
 
-                // Gesuchte Stage finden
+                // Find the requested stage
                 var match = rows.FirstOrDefault(r =>
                     r.Name.Equals(stageName, StringComparison.OrdinalIgnoreCase));
 
@@ -317,7 +316,7 @@ namespace SMO_Modding_Hub_Bot.Commands
                     return;
                 }
 
-                // Bild-URL (achte auf .jpg statt .png)
+                // Image URL 
                 string imageUrl = $"https://raw.githubusercontent.com/Amethyst-szs/smo-thumbnail-database/main/low/{match.Name}.jpg";
 
                 await Util.EmbedHelper.SendEmbedAsync(ctx, match.Name, match.Description, imageUrl, visibleForAll);
@@ -354,8 +353,8 @@ namespace SMO_Modding_Hub_Bot.Commands
             .Select(p => p[0].Trim())
             .ToList();
 
-        // Eingabe des Users (Filter)
-        string userInput = ctx.OptionValue?.ToString() ?? "";
+            // User input (filter)
+            string userInput = ctx.OptionValue?.ToString() ?? "";
 
         var matches = rows
             .Where(r => r.Contains(userInput, StringComparison.OrdinalIgnoreCase))
@@ -372,10 +371,10 @@ namespace SMO_Modding_Hub_Bot.Commands
         {
             var options = SoundUtil.GetAutocompleteOptions();
 
-            // Filter nach Eingabe
+            // Filter by user input
             string userInput = ctx.OptionValue?.ToString() ?? "";
             var filtered = options.Where(o => o.Contains(userInput, StringComparison.OrdinalIgnoreCase))
-                                  .Take(25); // Discord erlaubt max. 25 Vorschläge
+                                  .Take(25); // Discord allows max. 25 suggestions
 
             return filtered.Select(o => new DiscordAutoCompleteChoice(o, o));
         }

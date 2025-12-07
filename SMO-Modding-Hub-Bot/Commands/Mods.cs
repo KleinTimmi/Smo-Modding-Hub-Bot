@@ -1,106 +1,58 @@
-﻿using DSharpPlus;
-using DSharpPlus.Entities;
+﻿using DSharpPlus.Entities;
 using DSharpPlus.SlashCommands;
-using System.Threading.Tasks;
 
 namespace SMO_Modding_Hub_Bot.Commands
 {
-
-    /// <summary>
-    /// This is for Links to mods like Galaxy Story, Kingdom expansion...
-    /// </summary>
     public class Mods : ApplicationCommandModule
     {
-        #region CraftyBoss
-        /// <summary>
-        /// Sends an invitation link to the Crafty Boss Discord server in the current channel.
-        /// </summary>
-        [SlashCommand("craftyboss", "Sends an invitation link to the Crafty Boss Discord Server")]
-        public async Task CraftyBossCommand(InteractionContext ctx)
+        // Dictionary mit Mod-Namen, Beschreibung, Link und Bild
+        public static readonly Dictionary<string, (string Description, string Url, string ImageUrl)> ModLinks = new()
         {
-            await ctx.CreateResponseAsync("https://discord.gg/PwbkgprXN6");
-        }
-        #endregion
+            { "craftyboss", ("Crafty Boss Discord Server", "https://discord.gg/PwbkgprXN6", "https://cdn.discordapp.com/icons/481991664085499924/4dd2e01a7a9c3be808882c828a4d5e6d.webp?size=1024") },
+            { "galaxystory", ("Galaxy Story Discord Server", "https://discord.gg/BNSM9wt8zu", "https://cdn.discordapp.com/icons/1218139283215482960/f3db6565f303c19d3cb752fd7d72740d.webp?size=1024") },
+            { "amethyst", ("Amethyst's Discord Server", "https://discord.gg/wZ6aZecTBc", "https://cdn.discordapp.com/icons/1066047249878089799/66216b10e00522e400ef6be4f0efad20.webp?size=1024") },
+            { "kingdomexpansion-discord", ("Kingdom Expansion Discord", "https://discord.gg/uUrHE23u5a", "https://cdn.discordapp.com/icons/1342135514832044112/ca9b3ad26e1986cb14a6d119546a1ea3.webp?size=1024") },
+            { "kingdomexpansion-modpage", ("Kingdom Expansion Modpage", "https://gamebanana.com/mods/568934", "https://media.discordapp.net/attachments/1337052385054294051/1447339321806950490/CmTitleLogow.png?ex=69374348&is=6935f1c8&hm=f3746d2aaf6b556fcd6c2b99f6d362a7782c1118bde844dbf4620bde75872f31&=&format=webp&quality=lossless&width=950&height=588") },
+            { "smoo", ("Super Mario Odyssey Online Extensions", "https://github.com/DaDev123/Super-Mario-Odyssey-EXTENSIONS/releases", "https://cdn.discordapp.com/icons/1337052385054294048/14ab70f67345ad927fe9998734f1d1dc.webp?size=1024") }
+        };
 
-        #region GalaxyStory
-        /// <summary>
-        /// Sends a message containing a link to the Galaxy Story Discord server.
-        /// </summary>
-        [SlashCommand("galaxystory", "Sends an invitation link to the Galaxy Story Discord Server")]
-        public async Task GalaxyStoryCommand(InteractionContext ctx)
-        {
-            await ctx.CreateResponseAsync("https://discord.gg/BNSM9wt8zu");
-        }
-        #endregion
-
-        #region KingdomExpansion
-        /// <summary>
-        /// sends invitation links for Kingdom Expansion with optional target selection
-        /// </summary>
-        /// <param name="ctx"></param>
-        /// <param name="target"></param>
-        /// <returns></returns>
-        [SlashCommand("kingdomexpansion", "Sends invitation links for Kingdom Expansion")]
-        public async Task KingdomExpansionCommand(
+        [SlashCommand("modlink", "Get a link to a mod resource")]
+        public async Task ModLinkCommand(
             InteractionContext ctx,
-            [Option("target", "Choose 'discord' or 'modpage' (optional)")] string target = null)
+            [Option("mod", "Choose a mod name")]
+            [Autocomplete(typeof(ModAutocompleteProvider))] string mod)
         {
-            if (string.IsNullOrWhiteSpace(target))
+            if (ModLinks.TryGetValue(mod.ToLower(), out var info))
             {
-                // keine Auswahl → private Buttons
-                var builder = new DiscordInteractionResponseBuilder()
-                    .WithContent("Press 1 for Discord or 2 for the Modpage:")
-                    .AsEphemeral(true) // privat
-                    .AddComponents(
-                new DiscordLinkButtonComponent("1: Discord", "https://discord.gg/uUrHE23u5a"),
-                new DiscordLinkButtonComponent("2: Modpage", "https://gamebanana.com/mods/568934"));
+                var embed = new DiscordEmbedBuilder()
+                    .WithTitle(info.Description)
+                    .WithUrl(info.Url)
+                    .WithImageUrl(info.ImageUrl);
 
-                await ctx.CreateResponseAsync(builder);
-            }
-            else if (target.Equals("discord", StringComparison.OrdinalIgnoreCase))
-            {
-                // direkte Eingabe → öffentlich Discord-Link
                 await ctx.CreateResponseAsync(
-                    new DiscordInteractionResponseBuilder()
-                        .WithContent("https://discord.gg/uUrHE23u5a")
-                        .AsEphemeral(false) // öffentlich
-                );
-            }
-            else if (target.Equals("modpage", StringComparison.OrdinalIgnoreCase))
-            {
-                // direkte Eingabe → öffentlich Modpage-Link
-                await ctx.CreateResponseAsync(
-                    new DiscordInteractionResponseBuilder()
-                        .WithContent("https://gamebanana.com/mods/568934")
-                        .AsEphemeral(false) // öffentlich
+                    new DiscordInteractionResponseBuilder().AddEmbed(embed)
                 );
             }
             else
             {
-                await ctx.CreateResponseAsync(
-                    new DiscordInteractionResponseBuilder()
-                        .WithContent("Ungültige Option. Bitte 'discord' oder 'modpage' wählen.")
-                        .AsEphemeral(true)
-                );
+                await ctx.CreateResponseAsync($"❌ Unknown mod: {mod}");
             }
         }
-        #endregion
-
-        #region Amethyst
-        [SlashCommand("Amethyst", "Sends an invitation link to Amethyst's Discord Server")]
-        public async Task AmethystCommand(InteractionContext ctx)
-        {
-            await ctx.CreateResponseAsync("https://discord.gg/wZ6aZecTBc");
-        }
-        #endregion
-
-        #region SMOO
-        [SlashCommand("SMOO", "Sends an link to most of the SMOO mods")]
-        public async Task SMOOCommand(InteractionContext ctx)
-        {
-            await ctx.CreateResponseAsync("https://github.com/DaDev123/Super-Mario-Odyssey-Online-EXTENSIONS/releases");
-        }
-        #endregion
     }
 
+    // Autocomplete Provider
+    public class ModAutocompleteProvider : IAutocompleteProvider
+    {
+        public async Task<IEnumerable<DiscordAutoCompleteChoice>> Provider(AutocompleteContext ctx)
+        {
+            string userInput = ctx.OptionValue?.ToString() ?? "";
+
+            var matches = Mods.ModLinks.Keys
+                .Where(k => k.Contains(userInput, StringComparison.OrdinalIgnoreCase))
+                .Take(25)
+                .Select(k => new DiscordAutoCompleteChoice(k, k));
+
+            return await Task.FromResult(matches);
+        }
+    }
 }

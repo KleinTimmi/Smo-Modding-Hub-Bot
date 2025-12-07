@@ -35,19 +35,18 @@ namespace SMO_Modding_Hub_Bot.NewFolder.Sound
                     return;
                 }
 
+                // Acknowledge quickly
+                await ctx.CreateResponseAsync(DSharpPlus.InteractionResponseType.DeferredChannelMessageWithSource);
+
+                // Then send the file as a follow-up
                 using (var fs = new FileStream(fullPath, FileMode.Open, FileAccess.Read))
                 {
-                    var builder = new DiscordInteractionResponseBuilder()
+                    var followup = new DiscordFollowupMessageBuilder()
                         .AddFile(fileName, fs);
 
-                    if (ephemeral)
-                        builder.AsEphemeral(true);
-
-                    await ctx.CreateResponseAsync(
-                        DSharpPlus.InteractionResponseType.ChannelMessageWithSource,
-                        builder
-                    );
+                    await ctx.FollowUpAsync(followup);
                 }
+
             }
             else
             {
@@ -107,20 +106,20 @@ namespace SMO_Modding_Hub_Bot.NewFolder.Sound
             string character;
             if (!string.IsNullOrEmpty(archive) && SoundUtil.SoundArchives.ContainsKey(archive))
             {
-                // User hat ein Archiv angegeben
+                // User specified an archive
                 character = archive;
             }
             else
             {
-                // Zufälliges Archiv wählen
+                // Choose a random archive
                 character = SoundUtil.SoundArchives.Keys.ElementAt(random.Next(SoundUtil.SoundArchives.Count));
             }
 
-            // Zufälligen Sound aus dem Archiv wählen
+            // Choose a random sound from the archive
             var sounds = SoundUtil.SoundArchives[character];
             var sound = sounds[random.Next(sounds.Length)];
 
-            // Pfad zur Datei bauen
+            // Build path to the file
             string folderPath = Path.Combine("Stuff", "Sound", character);
             string fullPath = Path.Combine(folderPath, sound + ".wav");
 
@@ -131,11 +130,11 @@ namespace SMO_Modding_Hub_Bot.NewFolder.Sound
             }
             using (var fs = new FileStream(fullPath, FileMode.Open, FileAccess.Read))
             {
-                // Embed mit Titel bauen
+                // Build embed with title
                 var embed = new DiscordEmbedBuilder()
-                    .WithTitle($"{character}: {sound}");
+                .WithTitle($"{character}: {sound}");
 
-                // ResponseBuilder mit Datei + Embed
+                // ResponseBuilder with file + embed
                 var builder = new DiscordInteractionResponseBuilder()
                     .AddFile($"{sound}.wav", fs)
                     .AddEmbed(embed);

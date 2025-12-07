@@ -26,5 +26,9 @@
 		</Content>
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="Stuff\Images\" />
+	</ItemGroup>
+
 
 </Project>

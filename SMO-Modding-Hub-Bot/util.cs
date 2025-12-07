@@ -7,7 +7,7 @@ using System.Diagnostics;
 
 public class Util
 {
-    public class AnsiAttribute : Attribute 
+    public static class AnsiAttribute  
     {
         //I know I could've just used the the ANSI from Dicord.balls, but whatever
         //or do it manuelly but this is waaaay more readable

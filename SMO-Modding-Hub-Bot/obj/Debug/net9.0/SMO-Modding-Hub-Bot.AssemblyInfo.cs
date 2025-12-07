@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SMO-Modding-Hub-Bot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a8c144fb6dbb996aa4ced89c5336c5dd71753a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c271ba68938ed010ed4362c16e5d80b8bd667fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("SMO-Modding-Hub-Bot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SMO-Modding-Hub-Bot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

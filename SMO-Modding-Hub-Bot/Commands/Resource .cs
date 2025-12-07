@@ -45,7 +45,7 @@ namespace SMO_Modding_Hub_Bot.Commands
         #endregion
 
         #region Camera Area
-        [SlashCommand("CamaraArea", "Sends a link to How to make camerea Areas")]
+        [SlashCommand("CameraArea", "Sends a link to How to make camera areas")]
         public async Task CamAreaCommand(InteractionContext ctx)
         {
             await ctx.CreateResponseAsync("https://discord.com/channels/774687602996936747/1354952152187015188");
@@ -61,7 +61,7 @@ namespace SMO_Modding_Hub_Bot.Commands
         #endregion
 
         #region Downgrade
-        [SlashCommand("DownGrade", "Sends a link to the smo Downgrade")]
+        [SlashCommand("downgrade", "Sends a link to the smo Downgrade")]
         public async Task DowngradeCommand(InteractionContext ctx)
         {
             await ctx.CreateResponseAsync("https://github.com/Istador/odyssey-downgrade");
@@ -76,7 +76,7 @@ namespace SMO_Modding_Hub_Bot.Commands
         }
         #endregion
 
-        #region KFR recoreder
+        #region KFR recorder
         [SlashCommand("KFRrec", "Sends a link to the Koopa Freerunning Recorder")]
         public async Task KFRrecCommand(
             InteractionContext ctx,
