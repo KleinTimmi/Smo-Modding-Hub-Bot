@@ -117,7 +117,7 @@ namespace SMO_Modding_Hub_Bot.Commands
                     $"{ctx.User.Username}#{ctx.User.Discriminator} requested: {Link} in {ctx.Guild.Name} {Environment.NewLine}");
 
                 // Logging
-                Program.ExtraLogs.Enqueue($"{ctx.Member} requested {Link}");
+                Program.ExtraLogs.Enqueue($"{ctx.Member} requested {Util.Ansi.BlueUnderline} {Link} {Util.Ansi.Reset}");
             }
             #endregion
 
@@ -266,7 +266,7 @@ namespace SMO_Modding_Hub_Bot.Commands
              
             var pick = rows[random.Next(rows.Count)];
 
-            string imageUrl = $"https://raw.githubusercontent.com/Amethyst-szs/smo-thumbnail-database/main/low/{pick.Name}.jpg";
+            string imageUrl = $"https://raw.githubusercontent.com/Amethyst-szs/smo-thumbnail-database/main/high/{pick.Name}.jpg";
 
             await Util.EmbedHelper.SendEmbedAsync(ctx, pick.Name, pick.Description, imageUrl, visibleForAll);
 
@@ -316,7 +316,7 @@ namespace SMO_Modding_Hub_Bot.Commands
                     return;
                 }
 
-                // Image URL 
+                // Bild-URL (achte auf .jpg statt .png)
                 string imageUrl = $"https://raw.githubusercontent.com/Amethyst-szs/smo-thumbnail-database/main/low/{match.Name}.jpg";
 
                 await Util.EmbedHelper.SendEmbedAsync(ctx, match.Name, match.Description, imageUrl, visibleForAll);
@@ -353,8 +353,8 @@ namespace SMO_Modding_Hub_Bot.Commands
             .Select(p => p[0].Trim())
             .ToList();
 
-            // User input (filter)
-            string userInput = ctx.OptionValue?.ToString() ?? "";
+        // Eingabe des Users (Filter)
+        string userInput = ctx.OptionValue?.ToString() ?? "";
 
         var matches = rows
             .Where(r => r.Contains(userInput, StringComparison.OrdinalIgnoreCase))

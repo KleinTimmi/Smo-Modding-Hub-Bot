@@ -17,7 +17,7 @@ public class SoundUtil
         if (!Directory.Exists(SoundFilePath))
         {
             #if !RELEASE
-            Console.WriteLine($"{Util.AnsiAttribute.Red} Sound directory not found: {SoundFilePath}" + Util.AnsiAttribute.Reset);
+            Console.WriteLine($"{Util.Ansi.Red} Sound directory not found: {SoundFilePath}" + Util.Ansi.Reset);
             #endif
             return;
         }
@@ -34,7 +34,7 @@ public class SoundUtil
             SoundArchives[folderName] = wavFiles;
         }
         #if !RELEASE
-        Console.WriteLine($"{Util.AnsiAttribute.Green} Loaded {SoundArchives.Count} sound archives." + Util.AnsiAttribute.Reset);
+        Console.WriteLine($"{Util.Ansi.Green} Loaded {SoundArchives.Count} sound archives." + Util.Ansi.Reset);
         #endif
     }
 #endregion
@@ -53,7 +53,7 @@ public class SoundUtil
         string json = JsonSerializer.Serialize(SoundArchives, options);
         File.WriteAllText(outputFile, json);
         #if !RELEASE 
-        Console.WriteLine($"{Util.AnsiAttribute.Green} Sound archives written to {outputFile}" + Util.AnsiAttribute.Reset);
+        Console.WriteLine($"{Util.Ansi.Green} Sound archives written to {outputFile}" + Util.Ansi.Reset);
         #endif
     }
 #endregion

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nutzer\\source\\repos\\Smo-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj": {}
+    "G:\\Super-Mario-Odyssey\\Smo-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nutzer\\source\\repos\\Smo-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj": {
+    "G:\\Super-Mario-Odyssey\\Smo-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nutzer\\source\\repos\\Smo-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj",
+        "projectUniqueName": "G:\\Super-Mario-Odyssey\\Smo-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj",
         "projectName": "SMO-Modding-Hub-Bot",
-        "projectPath": "C:\\Users\\Nutzer\\source\\repos\\Smo-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj",
-        "packagesPath": "C:\\Users\\Nutzer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nutzer\\source\\repos\\Smo-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\obj\\",
+        "projectPath": "G:\\Super-Mario-Odyssey\\Smo-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj",
+        "packagesPath": "C:\\Users\\Jens\\.nuget\\packages\\",
+        "outputPath": "G:\\Super-Mario-Odyssey\\Smo-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Nutzer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jens\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

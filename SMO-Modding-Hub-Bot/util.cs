@@ -1,4 +1,5 @@
-﻿using DSharpPlus.Entities;
+﻿using DSharpPlus;
+using DSharpPlus.Entities;
 using DSharpPlus.SlashCommands;
 using SMO_Modding_Hub_Bot;
 using System;
@@ -7,35 +8,42 @@ using System.Diagnostics;
 
 public class Util
 {
-    public static class AnsiAttribute  
+    public class AnsiAttribute : Attribute 
     {
-        //I know I could've just used the the ANSI from Dicord.balls, but whatever
+        //I know I could've just used the the ANSI from DSharp, but whatever
         //or do it manuelly but this is waaaay more readable
 
+        
         /// <summary>
         /// \x1B[0m resets all attributes (color, underline, etc.)
         /// </summary>
         public const string Reset = "\x1B[0m";
-        /// <summary>
-        /// \x1B[34;4m sets the text color to blue and adds an underline
-        /// </summary>
-        public const string BlueUnderline = "\x1B[34;4m";
-        /// <summary>
-        /// \x1B[32m sets the text color to green
-        /// </summary>
-        public const string Green = "\x1B[32m";
+
         /// <summary>
         /// \x1B[31m sets the text color to red
         /// </summary>
         public const string Red = "\x1B[31m";
+            public const string RedUnderline = "\x1B[31m;4m";
+        /// <summary>
+        /// \x1B[32m sets the text color to green
+        /// </summary>
+        public const string Green = "\x1B[32m";
+            public const string GreenUnderline = "\x1B[32;4m";
         /// <summary>
         /// \x1B[33m sets the text color to yellow
         /// </summary>
         public const string Yellow = "\x1B[33m";
+            public const string YellowUnderline = "\x1B[33m;4m";
+        /// <summary>
+        /// \x1B[34m sets the text color to Blue
+        /// </summary>
+        public const string Blue = "\x1b[34m";
+            public const string BlueUnderline = "\x1B[34;4m";
         /// <summary>
         ///  \x1B[36m sets the text color to cyan
         /// </summary>
         public const string Cyan = "\x1B[36m";
+            public const string CyanUnderline = "\x1B[36m;4m";
     }
 
     public static class EmbedHelper
@@ -82,9 +90,9 @@ public class Util
                     .AddEmbed(embed)
                     .AsEphemeral(!visibleForAll)
             );
-
+            Console.WriteLine(Util.Ansi.Cyan + "Hallo");
             Program.ExtraLogs.Enqueue(
-                $"{title} ({description} {Util.AnsiAttribute.BlueUnderline}{imageUrl}{Util.AnsiAttribute.Reset})"
+                $"{title} ({description} {Util.Ansi.BlueUnderline}{imageUrl}{Util.Ansi.Reset})"
             );
         }
         #endregion

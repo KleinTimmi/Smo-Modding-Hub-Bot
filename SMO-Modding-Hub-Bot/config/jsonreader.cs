@@ -18,7 +18,7 @@ namespace SMO_Modding_Hub_Bot.config
                 this.prefix = jsonData.prefix;
                 this.admins = jsonData.admins;
 #if !RELEASE
-                Console.WriteLine(Util.AnsiAttribute.Green + "Config", "Configuration file loaded successfully." + Util.AnsiAttribute.Reset );
+                Console.WriteLine(Util.Ansi.Green + "Config", "Configuration file loaded successfully." + Util.Ansi.Reset );
 #endif
             }
         }
