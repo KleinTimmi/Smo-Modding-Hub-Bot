@@ -1,0 +1,76 @@
+ {
+  "Mods": {
+    "craftyboss-discord": {
+      "Description": "Crafty Boss Discord Server",
+      "Url": "https://discord.gg/PwbkgprXN6",
+      "ImageUrl": "https://cdn.discordapp.com/icons/481991664085499924/4dd2e01a7a9c3be808882c828a4d5e6d.webp?size=1024",
+      "Maker": "CraftyBoss"
+    },
+    "galaxystory-discord": {
+      "Description": "Galaxy Story Discord Server",
+      "Url": "https://discord.gg/BNSM9wt8zu",
+      "ImageUrl": "https://cdn.discordapp.com/icons/1218139283215482960/f3db6565f303c19d3cb752fd7d72740d.webp?size=1024",
+      "Maker": "Slycer"
+    },
+    "amethyst-discord": {
+      "Description": "Amethyst's Discord Server",
+      "Url": "https://discord.gg/wZ6aZecTBc",
+      "ImageUrl": "https://cdn.discordapp.com/icons/1066047249878089799/66216b10e00522e400ef6be4f0efad20.webp?size=1024",
+      "Maker": "Amethyst"
+    },
+    "kingdomexpansion-discord": {
+      "Description": "Kingdom Expansion Discord",
+      "Url": "https://discord.gg/uUrHE23u5a",
+      "ImageUrl": "https://cdn.discordapp.com/icons/1342135514832044112/ca9b3ad26e1986cb14a6d119546a1ea3.webp?size=1024",
+      "Maker":  "Kratzean"
+    },
+    "kingdomexpansion-modpage": {
+      "Description": "Kingdom Expansion Modpage",
+      "Url": "https://gamebanana.com/mods/568934",
+      "ImageUrl": "https://media.discordapp.net/attachments/1337052385054294051/1447339321806950490/CmTitleLogow.png?ex=69374348&is=6935f1c8&hm=f3746d2aaf6b556fcd6c2b99f6d362a7782c1118bde844dbf4620bde75872f31&=&format=webp&quality=lossless&width=950&height=588",
+      "Maker": "Kratzean"
+    },
+    "Superstar": {
+      "Description": "Superstar Mod R8",
+      "Url": "https://skelux.net/showthread.php?tid=950",
+      "ImageUrl": "",
+      "Maker": "Skelux"
+    },
+    "Kaizo": {
+      "Description": "Kaizo Mode",
+      "Url": "https://gamebanana.com/mods/529956",
+      "ImageUrl": "https://www.speedrun.com/static/game/y65ry801/cover.png?v=da83677",
+      "Maker": "SMOJoycon, Redslay9"
+    },
+    "fludd": {
+      "Description": "F.L.U.D.D.",
+      "Url": "https://gamebanana.com/mods/421691",
+      "ImageUrl": "https://images.gamebanana.com/img/ss/mods/63bcb0c897b39.jpg",
+      "Maker": "JustKant"
+    },
+    "manhunt": {
+      "Description": "ManHunt",
+      "Url": "https://gamebanana.com/mods/536910",
+      "ImageUrl": "https://images.gamebanana.com/img/ss/mods/684c2b61cc7c7.jpg",
+      "Maker": "SecretDev, Hesmakka (original SMOO used as base)"
+    },
+    "small-mario": {
+      "Description": "Small Mario",
+      "Url": "https://gamebanana.com/mods/602667",
+      "ImageUrl": "https://images.gamebanana.com/img/ss/mods/66eb52e724280.jpg",
+      "Maker": "SecretDev"
+    },
+    "non-stop-v2": {
+      "Description": "non-stop V2",
+      "Url": "https://github.com/DaDev123/Nonstop-SMOO/releases",
+      "ImageUrl": "",
+      "Maker": "SecretDev"
+    },
+    "smo": {
+      "Description": "Super Mario Odyssey Online Extensions",
+      "Url": "https://github.com/DaDev123/Super-Mario-Odyssey-EXTENSIONS/releases",
+      "ImageUrl": "https://cdn.discordapp.com/icons/1337052385054294048/14ab70f67345ad927fe9998734f1d1dc.webp?size=1024",
+      "Maker": "CraftyBoss, Amethyst, Binston... (compiled by SecretDev)"
+    }
+  }
+}

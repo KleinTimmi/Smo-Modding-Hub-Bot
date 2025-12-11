@@ -1,4 +1,6 @@
 ﻿using DSharpPlus;
+using Microsoft.Extensions.Logging;
+using SMO_Modding_Hub_Bot;
 using System.Text.Json;
 
 public class SoundUtil
@@ -17,7 +19,7 @@ public class SoundUtil
         if (!Directory.Exists(SoundFilePath))
         {
             
-            Console.WriteLine($"{Util.Ansi.Red} Sound directory not found: {SoundFilePath}" + Util.Ansi.Reset);
+            Program.Client.Logger.LogDebug($"{Util.Ansi.Red} Sound directory not found: {SoundFilePath}" + Util.Ansi.Reset);
             
             return;
         }
@@ -33,7 +35,9 @@ public class SoundUtil
 
             SoundArchives[folderName] = wavFiles;
         }
+#if !RELEASE
         Console.WriteLine($"{Util.Ansi.Green} Loaded {SoundArchives.Count} sound archives." + Util.Ansi.Reset);
+#endif
     }
 #endregion
 
@@ -50,7 +54,9 @@ public class SoundUtil
 
         string json = JsonSerializer.Serialize(SoundArchives, options);
         File.WriteAllText(outputFile, json);
+#if !RELEASE
         Console.WriteLine($"{Util.Ansi.Green} Sound archives written to {outputFile}" + Util.Ansi.Reset);
+#endif
     }
 #endregion
 

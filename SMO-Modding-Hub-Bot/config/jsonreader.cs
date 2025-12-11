@@ -9,6 +9,7 @@ namespace SMO_Modding_Hub_Bot.Config
         public string prefix { get; set; }
         public List<ulong> admins { get; set; }
         public string quality { get; set; }
+        public ulong LogChannel { get; set; }
 
         // Neu: Mod-Daten aus mods.json
         public Dictionary<string, ModInfo> Mods { get; set; }
@@ -27,10 +28,11 @@ namespace SMO_Modding_Hub_Bot.Config
                 this.prefix = jsonData?.prefix ?? "!";
                 this.admins = jsonData?.admins ?? new List<ulong>();
                 this.quality = jsonData?.quality ?? "high";
-
+                this.LogChannel = jsonData?.LogChannel ?? 0;
+#if !RELEASE
                 Console.WriteLine(Util.Ansi.Green + "Config loaded successfully." + Util.Ansi.Reset);
                 Console.WriteLine($"Admins: {string.Join(", ", this.admins)}, Quality: {this.quality}");
-                
+#endif    
 
             }
             using (StreamReader sr = new StreamReader("mods.json"))
@@ -38,8 +40,9 @@ namespace SMO_Modding_Hub_Bot.Config
                 //
                 // 2. mods.json lesen
                 //
+#if !RELEASE
                 Console.WriteLine("Loading Mods.json...");
-
+#endif
                 if (File.Exists("mods.json"))
                 {
 
@@ -50,14 +53,14 @@ namespace SMO_Modding_Hub_Bot.Config
                     this.Mods = (modsData?.Mods ?? new Dictionary<string, ModInfo>())
                         .ToDictionary(k => k.Key.ToLower(), v => v.Value);
 
-
+#if !RELEASE
                     Console.WriteLine(Util.Ansi.Green + "Mods.json loaded successfully." + Util.Ansi.Reset);
 
                     foreach (var key in Mods.Keys)
                     {
                         Console.WriteLine($"Loaded mod key: '{key}'");
                     }
-
+#endif
                 }
             else
             {
@@ -79,6 +82,7 @@ namespace SMO_Modding_Hub_Bot.Config
         public string prefix { get; set; }
         public List<ulong> admins { get; set; }
         public string quality { get; set; }
+        public ulong LogChannel { get; set; }
     }
 
     /// <summary>

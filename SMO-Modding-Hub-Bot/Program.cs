@@ -1,11 +1,13 @@
 ﻿using DSharpPlus;
 using DSharpPlus.CommandsNext;
+using DSharpPlus.Entities;
 using DSharpPlus.SlashCommands;
 using DSharpPlus.SlashCommands.EventArgs;
 using Microsoft.Extensions.Logging;
 using SMO_Modding_Hub_Bot.Commands;
 using SMO_Modding_Hub_Bot.Stuff.Sound;
 using System.Collections.Concurrent;
+using System.Text.RegularExpressions;
 
 namespace SMO_Modding_Hub_Bot
 {
@@ -17,32 +19,38 @@ namespace SMO_Modding_Hub_Bot
 
         private static FileSystemWatcher ModsWatcher;
 
+        public static string RemoveAnsiCodes(string input)
+        {
+            return Regex.Replace(input, @"\x1B\[[0-9;]*[mK]", "");
+        }
+
 
         static async Task Main(string[] args)
         {
-            Client.Logger.LogDebug(Util.Ansi.Blue + "Starting SMO Modding Hub Bot..." + Util.Ansi.Reset );
+            Console.WriteLine(Util.Ansi.Blue + "Starting SMO Modding Hub Bot..." + Util.Ansi.Reset);
 
             Config = new Config.JSONReader();
             await Config.ReadJson();
 
-            var loggerFactory = LoggerFactory.Create(builder =>
-            {
-                builder.AddProvider(new DiscordChannelLoggerProvider(Client, 1441732463389970517));
-            });
+
             var discordConfig = new DiscordConfiguration
             {
                 Token = Config.token,
                 TokenType = TokenType.Bot,
                 Intents = DiscordIntents.All,
                 AutoReconnect = true,
-                
+                LoggerFactory = LoggerFactory.Create(builder =>
+                {
+                    builder.AddProvider(new DiscordChannelLoggerProvider(Config.LogChannel));
+                })
             };
 
             Client = new DiscordClient(discordConfig);
+
             Client.Ready += OnClientReady;
             Client.GuildCreated += async (s, e) =>
             {
-                Client.Logger.LogInformation(Util.Ansi.Cyan + "Bot joined guild: {GuildName} ({GuildId})" + Util.Ansi.Reset , e.Guild.Name, e.Guild.Id);
+                Client.Logger.LogInformation(Util.Ansi.Cyan + "Bot joined guild: {GuildName} ({GuildId})" + Util.Ansi.Reset, e.Guild.Name, e.Guild.Id);
             };
 
             var commandsConfig = new CommandsNextConfiguration
@@ -52,14 +60,13 @@ namespace SMO_Modding_Hub_Bot
                 EnableMentionPrefix = true,
                 EnableDefaultHelp = false,
                 CaseSensitive = false,
-                
+
 
             };
             if (Program.Config.Mods.Keys.Count == 0)
             {
-                Program.Client.Logger.LogDebug(Util.Ansi.Yellow + "Warning: No mods loaded from config!" + Util.Ansi.Reset );
+                Program.Client.Logger.LogDebug(Util.Ansi.Yellow + "Warning: No mods loaded from config!" + Util.Ansi.Reset);
             }
-
 
 
 
@@ -68,17 +75,17 @@ namespace SMO_Modding_Hub_Bot
             ModsWatcher = new FileSystemWatcher
             {
                 Path = AppContext.BaseDirectory,
-                Filter = "mods.json",
+                Filter = "*.json",
                 NotifyFilter = NotifyFilters.LastWrite
                              | NotifyFilters.FileName
                              | NotifyFilters.Size,
                 EnableRaisingEvents = true,
                 IncludeSubdirectories = false
             };
-
+#if !RELEASE
             Program.Client.Logger.LogDebug($"{ModsWatcher.Path} + {ModsWatcher.Filter}");
             Program.Client.Logger.LogDebug(Util.Ansi.Green + "FileSystemWatcher for mods.json created successfully" + Util.Ansi.Reset);
-
+#endif
             // Events registrieren
             ModsWatcher.Changed += OnModsJsonChanged;
             ModsWatcher.Created += OnModsJsonChanged;
@@ -108,24 +115,25 @@ namespace SMO_Modding_Hub_Bot
             slash.SlashCommandErrored += async (s, e) => await LogSlashError(e);
 
             SoundUtil.LoadSounds();
-            
+
             SoundUtil.WriteToJson();
-            
-            Program.Client.Logger.LogDebug(Util.Ansi.Green + "Commands registered" + Util.Ansi.Reset );
+
+
+            Program.Client.Logger.LogDebug(Util.Ansi.Green + "Commands registered" + Util.Ansi.Reset);
 
             await Client.ConnectAsync();
 
             await Task.Delay(-1);
         }
 
-        // ---- Hilfsmethoden auf Klassenebene ----
         private static bool _modsJsonProcessing = false;
         private static DateTime _lastTrigger = DateTime.MinValue;
         private static async void OnModsJsonChanged(object sender, FileSystemEventArgs e)
         {
+            if (e.Name.ToLower() != "mods.json" || e.Name != "Config.json")
+                return;
             var now = DateTime.Now;
 
-            // Ignoriere Events innerhalb von 300 ms
             if (_modsJsonProcessing || (now - _lastTrigger).TotalMilliseconds < 300)
                 return;
 
@@ -153,7 +161,7 @@ namespace SMO_Modding_Hub_Bot
         }
         #region Logging helper
 
-        private static Task LogCommandExecution(CommandContext ctx)
+        private static Task LogCommandExecution(DSharpPlus.CommandsNext.CommandContext ctx)
         {
             //these wired symbols are for coloring the console output (in this case Green)
             Client.Logger.LogInformation("\u001b[32m{User} executed slash {Command} in {Channel} ({Guild})\u001b[0m",
@@ -169,14 +177,14 @@ namespace SMO_Modding_Hub_Bot
 
         private static Task LogSlashExecution(InteractionContext ctx)
         {
-            Client.Logger.LogInformation(Util.Ansi.Green + "{User} executed slash {Command} in {Channel} ({Guild})"+ Util.Ansi.Reset ,
+            Client.Logger.LogInformation(Util.Ansi.Green + "{User} executed slash {Command} in {Channel} ({Guild})" + Util.Ansi.Reset,
                 ctx.User.Username,
                 ctx.CommandName,
                 ctx.Channel.Name,
                 ctx.Guild?.Name ?? "DM");
 
             if (ExtraLogs.TryDequeue(out var extraLog))
-                Client.Logger.LogInformation(Util.Ansi.Cyan + extraLog + Util.Ansi.Reset );
+                Client.Logger.LogInformation(Util.Ansi.Cyan + extraLog + Util.Ansi.Reset);
 
             return Task.CompletedTask;
         }
@@ -206,29 +214,25 @@ namespace SMO_Modding_Hub_Bot
     }
     public class DiscordChannelLoggerProvider : ILoggerProvider
     {
-        private readonly DiscordClient _client;
         private readonly ulong _channelId;
 
-        public DiscordChannelLoggerProvider(DiscordClient client, ulong channelId)
+        public DiscordChannelLoggerProvider(ulong channelId)
         {
-            _client = client;
             _channelId = channelId;
         }
 
         public ILogger CreateLogger(string categoryName)
-            => new DiscordChannelLogger(_client, _channelId);
+            => new DiscordChannelLogger(_channelId);
 
         public void Dispose() { }
     }
 
     public class DiscordChannelLogger : ILogger
     {
-        private readonly DiscordClient _client;
         private readonly ulong _channelId;
 
-        public DiscordChannelLogger(DiscordClient client, ulong channelId)
+        public DiscordChannelLogger(ulong channelId)
         {
-            _client = client;
             _channelId = channelId;
         }
 
@@ -236,30 +240,45 @@ namespace SMO_Modding_Hub_Bot
         public bool IsEnabled(LogLevel logLevel) => true;
 
         public void Log<TState>(LogLevel logLevel, EventId eventId,
-            TState state, Exception exception, Func<TState, Exception, string> formatter)
+    TState state, Exception exception, Func<TState, Exception, string> formatter)
         {
             var message = formatter(state, exception);
 
-            // Normales Logging in die Konsole
-            Program.Client.Logger.LogDebug($"[{logLevel}] {message}");
+            // Console-Log mit Zeitstempel
+            var timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+            Console.WriteLine($"[{timestamp}] [{logLevel}] {message}");
 
-            // Nur Warnings und Errors in den Channel schreiben
-            if (logLevel >= LogLevel.Warning)
+            // Discord-Log ohne Zeitstempel
+            if (logLevel >= LogLevel.Debug)
             {
                 Task.Run(async () =>
                 {
                     try
                     {
-                        var channel = await _client.GetChannelAsync(_channelId);
-                        await channel.SendMessageAsync($"[{logLevel}] {message}");
+                        var channel = await Program.Client.GetChannelAsync(_channelId);
+                        var cleanMessage = Program.RemoveAnsiCodes(message);
+
+                        var embed = new DiscordEmbedBuilder()
+                            .WithTitle($"[{logLevel}]")
+                            .WithDescription(cleanMessage)
+                            .WithColor(logLevel switch
+                            {
+                                LogLevel.Error => DiscordColor.Red,
+                                LogLevel.Warning => DiscordColor.Orange,
+                                LogLevel.Information => DiscordColor.Green,
+                                _ => DiscordColor.Blurple
+                            });
+
+                        await channel.SendMessageAsync(embed: embed);
                     }
-                    catch (Exception ex)
+                    catch
                     {
-                        Program.Client.Logger.LogDebug($"Fehler beim Channel-Log: {ex.Message}");
+                        // Fehler ignorieren
                     }
                 });
             }
         }
+
     }
 
 }

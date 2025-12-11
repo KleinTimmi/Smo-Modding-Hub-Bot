@@ -1,72 +1,141 @@
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\SMO-Modding-Hub-Bot.exe
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\SMO-Modding-Hub-Bot.deps.json
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\SMO-Modding-Hub-Bot.runtimeconfig.json
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\SMO-Modding-Hub-Bot.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\SMO-Modding-Hub-Bot.pdb
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\ConcurrentCollections.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Discord.Net.Commands.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Discord.Net.Core.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Discord.Net.Interactions.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Discord.Net.Rest.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Discord.Net.Webhook.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Discord.Net.WebSocket.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\DSharpPlus.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\DSharpPlus.CommandsNext.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\DSharpPlus.Interactivity.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\DSharpPlus.SlashCommands.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Configuration.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Configuration.CommandLine.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Configuration.Json.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Configuration.UserSecrets.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Diagnostics.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Hosting.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Logging.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Logging.Configuration.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Logging.Console.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Logging.Debug.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Logging.EventLog.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Logging.EventSource.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Options.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Primitives.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Newtonsoft.Json.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\System.Diagnostics.EventLog.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\System.Interactive.Async.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\System.IO.Pipelines.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\System.Linq.Async.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\System.Reactive.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\System.Text.Encodings.Web.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\System.Text.Json.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\runtimes\win\lib\net9.0\System.Text.Encodings.Web.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\SMO-Modding-Hub-Bot.csproj.AssemblyReference.cache
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\SMO-Modding-Hub-Bot.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\SMO-Modding-Hub-Bot.AssemblyInfoInputs.cache
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\SMO-Modding-Hub-Bot.AssemblyInfo.cs
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\SMO-Modding-Hub-Bot.csproj.CoreCompileInputs.cache
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\SMO-Modding-Hub-Bot.sourcelink.json
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\SMO-Modd.F7B274B8.Up2Date
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\SMO-Modding-Hub-Bot.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\refint\SMO-Modding-Hub-Bot.dll
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\SMO-Modding-Hub-Bot.pdb
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\SMO-Modding-Hub-Bot.genruntimeconfig.cache
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\ref\SMO-Modding-Hub-Bot.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\Unsorted\0001.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaAttackTailSignWithFire.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaAttackTailStartWithFire.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapCatch.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapDownRecoverEnd.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapDownRecoverLv.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapDownRecoverSign.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapDummySpinLv.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapMarioStart.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapMarioStartSign01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapMarioStartSign02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapPull.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapSpinHit.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapSpinLv.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapWear.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaDamage.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaDamageBallSign.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaDamageBallSignS.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaDamageCollide.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaDamageLast1.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaDamageLast2.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaDamageLast3.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaDownJumpStart.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaDownLandEnd.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaDownLandStart.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaFireBeamSignFirst.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaFireBeamStart.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaFireBeamTurnSignLtoR.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaFireBeamWaitLv.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHackBrake.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHackFireBallExplosion.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHackFireCharge02Lv.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHackFireChargeLv.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHackFireChargeStart.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHackFireEnd.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHackRun01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHackRun02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHackRun03.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHipDropGetUp.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHipDropLandStart.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHipDropSign.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHitGuard.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaJump01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaJump02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaJumpEnd.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaJumpEndBeamShort.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaPunchFinishStart.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaRingBeamLv.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaRingBeamStart.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaTailAttack.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaThrowCap.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaThrowDamageBall.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaAngryL.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaAngryS.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaAttackWaitLaugh.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaAttackWaitLaugh_02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaAttackWaitLaugh_03.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaCapAttackL.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaCapAttackM.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaCapAttackS.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaCapAttackS01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaCapAttackS02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaCapAttackSign.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaCapAttract01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaCapAttract02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaChanceBreath.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaDamageBallAttack01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaDamageBallAttack02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaDamageBallAttack03.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaFireBeamSignFirst.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaFireBeamStart.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaFireBeamTurnSignLtoR.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGetUpHeadShake.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGetUpHipDrop.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGetUpTailAttack.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGrowl.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGuard01_01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGuard01_02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGuard01_03.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGuard02_01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGuard02_02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGuard02_03.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGuard03_01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGuard03_02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGuard03_03.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackFireChargeStart.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackFireEnd.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackJump1_01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackJump1_02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackJump1_03.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackJump2_01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackJump2_02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackJump2_03.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackJump3_01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackJump3_02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackPunch01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackPunch02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackPunch03.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackPunch04.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackPunch05.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackSwoonReaction01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackSwoonReaction02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackSwoonReaction03.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHack_ElectricWire_Bowser_h02_00701.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHack_ElectricWire_Bowser_h03_00201.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHack_ElectricWire_Peach_D001_P001_All_001.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHack_ElectricWire_Peach_D001_P001_All_001_02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHack_ElectricWire_Peach_d019_Tk_05.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHack_ElectricWire_rc_KpV_c_06_13.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHipDropLand.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHipDropRolling.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaJumpL.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaJumpS01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaJumpS02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaJumpS03.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaJumpSLast.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaKnockOutLand.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaKnockOutS.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaPanic.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaPratfall.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaReel.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaSurprise.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaTailAttack.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsNvBowserTalkCloudW01_01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsNvBowserTalkCloudW01_02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsNvBowserTalkCloudW01_03.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsNvBowserTalkMoonW01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsNvBowserTalkMoonW02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsNvBowserTalkMoonW03.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsNvBowserTalkMoonW04_01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsNvBowserTalkMoonW04_02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsNvBowserTalkMoonW05_01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsNvBowserTalkMoonW05_02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsNvBowserTalkMoonW05_03.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsOjRadioCassetteNoiseVKoopa00.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsOjRadioCassetteNoiseVKoopa01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsSyCounterLifeKoopa.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsSyTouchAmiiboKoopa.wav
 C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Cappy\WsNmCapManHeroDemoTalkAppeaer.wav
 C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Cappy\WsNmCapManHeroGetDemoEndFly01.wav
 C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Cappy\WsNmCapManHeroGetDemoEndTransform01.wav
@@ -412,6 +481,189 @@ C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release
 C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Cappy\WsSyPlayerHackHatOn.wav
 C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Cappy\WsSyPlayerHackStart.wav
 C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Cappy\WsSyPlayerHackStart2.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietBombBigExplode.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietBombBigLand.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietBombExplode.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietBombExplode2.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietBombExplodeSign.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietBreakHat1.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietDBattleEnd.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietDBattleStart.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietFootL1.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietFootL2.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietFootR1.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietFootR2.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietHit1.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietLand.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietTailSqueak1.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietTailSqueak2.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietTailSqueak3.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietTailSqueak4.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietUfoRotateCalmLv.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietUfoRotateLv.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietUfoRotateStop.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietUfoRotateStopPre.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietUfoTakeOff1.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietUfoTakeOn.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvBombTailDemoGoOther.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo01DemoLaugh.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo02DTalk1.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo03DTalk1.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo04DTalk2.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo05DTalk2.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo07DJump.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo07DPose.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo15Astonish1.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo15Astonish2.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo23DDown.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo23DDownPre.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo29MechaFall.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo30MechaConfuse.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo31MechaDamage1.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo31MechaDamage2.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo31MechaDamage3.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo31MechaDamage4.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo31MechaDamage5.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo31MechaDamage6.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo31MechaDamage7.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo32MechaBreak.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoBombBigPull1.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoBombBigPull2.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoBombBigPull3.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoBombBigPullEnd.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoBombBigThrow1.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoBombBigThrow2.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoBombHitted1.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoBombHitted2.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoBombHittedAfter1.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoBombHittedAfter2.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoBombSAppear.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoDamage.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoDamage2.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoFlyStart.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoHatRecover1.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoHatRecover2.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoPrepBomb1.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoPrepBomb2.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoPrepBombBig1.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoPrepBombBig2.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoPrepBombBigPre1.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoPrepBombBigPre2.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoSweatingLv.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoThrowBomb1.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoThrowBomb2.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoThrowBombS1.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoThrowBombS2.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoWalk1.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoWalk2.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoWalk3.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdLifeMaxUp.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmAmiiboInvincibility.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgBossBreedaAppear.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgClearFanfare.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgEnemy01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgGrandMoon.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgGrandMoonCeremony.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgGrandMoonCeremony8bit.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgHomeRevive.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgHomeStarting.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgJangoAppear.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgMainMoon.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgNew.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgRaceFinalLap.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgRaceIntro.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgRaceLose.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgRaceWin.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgSeaFountain.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgStartCamera01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgStartCamera01a.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgStartCamera01b.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgStartCamera02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgSubMoon.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgSubMoon8bit.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgSubMoonPeach.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmMarioPlayGuitarPomcho.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmMarioPlayHula.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\SeBvBreedaPanicPull_loop1.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\SeBvBreedaPanicPull_loop2.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\SeBvBreedaPanicPull_loop3.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\SeBvBreedaPanicPull_loop4.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\SeBvBreedaPanicPull_loop5.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBmBreedaAttackSign.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBmBreedaAttackSwing00.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBmBreedaAttackSwing01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBmBreedaDamageFace.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBmBreedaWanwanAttackHit.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBmBreedaWanwanDemoBattleStartSecondAttackEnd.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaAttackSuccess00.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaAttackSuccess01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaAttackSuccess02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaCatchWanwan00.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDamage00.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDamage01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDamage02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDemoBattleStartFirst00Notice.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDemoBattleStartFirst01Laugh.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDemoBattleStartSecond00Zoom.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDemoBattleStartSecond01Shout.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDemoEd00DamageLast.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDemoEd01Writhe.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDemoEd02Faint.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDemoEd03Dead.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDemoOp10Threat.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaForgive00.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaForgive01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaForgive02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaForgive03.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaForgive04.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaKnockback00.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaKnockback01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaKnockback02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaKnockback03.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaPanic00.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaPanic01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaPanicPullEnd00.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaPanicPullEnd01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaPanicPullEnd02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaPanicPullEnd03.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaPanicStart00.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaPanicStart01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaPanicStart03.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaPanicStart04.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaRecoverDamage00.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlap00.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlap01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlap02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlap03.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlap04.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapAngry00.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapAngry01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapAngry02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapAngry03.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapAngry04.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapSign00.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapSign01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapSign02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapSign03.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapSign04.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapSignAngry00.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapSignAngry01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapSignAngry02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapSignAngry03.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaThrowWanwan00.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaThrowWanwanEnd00.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaThrowWanwanSign00.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaTired00.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaTired01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaTiredAngry00.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaTiredAngry01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaVScript00.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaVScript01.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaVScript02.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaVScript03.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaVScript04.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaVScript05.wav
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaWanwanBark.wav
 C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Mario\SeResourceStd2nd_00000000_000000B5.wav
 C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Mario\SeResourceStd2nd_00000000_0000065E.wav
 C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Mario\SeResourceStd2nd_00000000_0000065F.wav
@@ -632,300 +884,6 @@ C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release
 C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Mario\SeResourceStd2nd_00000000_00000D4F.wav
 C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Mario\SeResourceStd2nd_00000000_00000D50.wav
 C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Mario\SeResourceStdSystem_00000000_00000015.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\Unsorted\0001.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaAttackTailSignWithFire.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaAttackTailStartWithFire.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapCatch.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapDownRecoverEnd.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapDownRecoverLv.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapDownRecoverSign.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapDummySpinLv.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapMarioStart.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapMarioStartSign01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapMarioStartSign02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapPull.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapSpinHit.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapSpinLv.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaCapWear.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaDamage.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaDamageBallSign.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaDamageBallSignS.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaDamageCollide.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaDamageLast1.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaDamageLast2.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaDamageLast3.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaDownJumpStart.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaDownLandEnd.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaDownLandStart.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaFireBeamSignFirst.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaFireBeamStart.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaFireBeamTurnSignLtoR.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaFireBeamWaitLv.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHackBrake.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHackFireBallExplosion.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHackFireCharge02Lv.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHackFireChargeLv.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHackFireChargeStart.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHackFireEnd.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHackRun01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHackRun02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHackRun03.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHipDropGetUp.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHipDropLandStart.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHipDropSign.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaHitGuard.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaJump01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaJump02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaJumpEnd.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaJumpEndBeamShort.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaPunchFinishStart.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaRingBeamLv.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaRingBeamStart.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaTailAttack.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaThrowCap.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBmKoopaThrowDamageBall.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaAngryL.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaAngryS.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaAttackWaitLaugh.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaAttackWaitLaugh_02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaAttackWaitLaugh_03.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaCapAttackL.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaCapAttackM.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaCapAttackS.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaCapAttackS01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaCapAttackS02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaCapAttackSign.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaCapAttract01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaCapAttract02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaChanceBreath.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaDamageBallAttack01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaDamageBallAttack02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaDamageBallAttack03.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaFireBeamSignFirst.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaFireBeamStart.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaFireBeamTurnSignLtoR.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGetUpHeadShake.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGetUpHipDrop.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGetUpTailAttack.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGrowl.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGuard01_01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGuard01_02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGuard01_03.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGuard02_01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGuard02_02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGuard02_03.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGuard03_01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGuard03_02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaGuard03_03.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackFireChargeStart.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackFireEnd.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackJump1_01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackJump1_02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackJump1_03.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackJump2_01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackJump2_02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackJump2_03.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackJump3_01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackJump3_02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackPunch01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackPunch02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackPunch03.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackPunch04.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackPunch05.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackSwoonReaction01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackSwoonReaction02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHackSwoonReaction03.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHack_ElectricWire_Bowser_h02_00701.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHack_ElectricWire_Bowser_h03_00201.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHack_ElectricWire_Peach_D001_P001_All_001.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHack_ElectricWire_Peach_D001_P001_All_001_02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHack_ElectricWire_Peach_d019_Tk_05.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHack_ElectricWire_rc_KpV_c_06_13.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHipDropLand.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaHipDropRolling.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaJumpL.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaJumpS01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaJumpS02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaJumpS03.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaJumpSLast.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaKnockOutLand.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaKnockOutS.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaPanic.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaPratfall.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaReel.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaSurprise.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsBvKoopaTailAttack.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsNvBowserTalkCloudW01_01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsNvBowserTalkCloudW01_02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsNvBowserTalkCloudW01_03.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsNvBowserTalkMoonW01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsNvBowserTalkMoonW02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsNvBowserTalkMoonW03.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsNvBowserTalkMoonW04_01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsNvBowserTalkMoonW04_02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsNvBowserTalkMoonW05_01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsNvBowserTalkMoonW05_02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsNvBowserTalkMoonW05_03.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsOjRadioCassetteNoiseVKoopa00.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsOjRadioCassetteNoiseVKoopa01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsSyCounterLifeKoopa.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Bowser\WsSyTouchAmiiboKoopa.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietBombBigExplode.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietBombBigLand.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietBombExplode.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietBombExplode2.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietBombExplodeSign.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietBreakHat1.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietDBattleEnd.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietDBattleStart.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietFootL1.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietFootL2.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietFootR1.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietFootR2.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietHit1.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietLand.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietTailSqueak1.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietTailSqueak2.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietTailSqueak3.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietTailSqueak4.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietUfoRotateCalmLv.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietUfoRotateLv.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietUfoRotateStop.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietUfoRotateStopPre.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietUfoTakeOff1.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBmHarietUfoTakeOn.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvBombTailDemoGoOther.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo01DemoLaugh.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo02DTalk1.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo03DTalk1.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo04DTalk2.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo05DTalk2.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo07DJump.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo07DPose.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo15Astonish1.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo15Astonish2.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo23DDown.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo23DDownPre.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo29MechaFall.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo30MechaConfuse.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo31MechaDamage1.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo31MechaDamage2.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo31MechaDamage3.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo31MechaDamage4.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo31MechaDamage5.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo31MechaDamage6.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo31MechaDamage7.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVo32MechaBreak.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoBombBigPull1.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoBombBigPull2.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoBombBigPull3.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoBombBigPullEnd.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoBombBigThrow1.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoBombBigThrow2.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoBombHitted1.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoBombHitted2.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoBombHittedAfter1.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoBombHittedAfter2.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoBombSAppear.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoDamage.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoDamage2.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoFlyStart.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoHatRecover1.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoHatRecover2.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoPrepBomb1.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoPrepBomb2.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoPrepBombBig1.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoPrepBombBig2.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoPrepBombBigPre1.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoPrepBombBigPre2.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoSweatingLv.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoThrowBomb1.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoThrowBomb2.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoThrowBombS1.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoThrowBombS2.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoWalk1.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoWalk2.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Hariet\WsBvHarietVoWalk3.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\SeBvBreedaPanicPull_loop1.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\SeBvBreedaPanicPull_loop2.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\SeBvBreedaPanicPull_loop3.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\SeBvBreedaPanicPull_loop4.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\SeBvBreedaPanicPull_loop5.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBmBreedaAttackSign.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBmBreedaAttackSwing00.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBmBreedaAttackSwing01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBmBreedaDamageFace.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBmBreedaWanwanAttackHit.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBmBreedaWanwanDemoBattleStartSecondAttackEnd.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaAttackSuccess00.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaAttackSuccess01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaAttackSuccess02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaCatchWanwan00.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDamage00.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDamage01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDamage02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDemoBattleStartFirst00Notice.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDemoBattleStartFirst01Laugh.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDemoBattleStartSecond00Zoom.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDemoBattleStartSecond01Shout.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDemoEd00DamageLast.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDemoEd01Writhe.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDemoEd02Faint.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDemoEd03Dead.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaDemoOp10Threat.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaForgive00.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaForgive01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaForgive02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaForgive03.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaForgive04.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaKnockback00.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaKnockback01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaKnockback02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaKnockback03.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaPanic00.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaPanic01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaPanicPullEnd00.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaPanicPullEnd01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaPanicPullEnd02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaPanicPullEnd03.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaPanicStart00.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaPanicStart01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaPanicStart03.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaPanicStart04.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaRecoverDamage00.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlap00.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlap01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlap02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlap03.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlap04.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapAngry00.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapAngry01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapAngry02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapAngry03.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapAngry04.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapSign00.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapSign01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapSign02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapSign03.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapSign04.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapSignAngry00.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapSignAngry01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapSignAngry02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaSlapSignAngry03.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaThrowWanwan00.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaThrowWanwanEnd00.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaThrowWanwanSign00.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaTired00.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaTired01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaTiredAngry00.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaTiredAngry01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaVScript00.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaVScript01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaVScript02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaVScript03.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaVScript04.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaVScript05.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Madame Broode\WsBvBreedaWanwanBark.wav
 C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Spewart\WsBmFireBlowerBlowAddNote1.wav
 C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Spewart\WsBmFireBlowerBlowMiss1.wav
 C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Spewart\WsBmFireBlowerBlowMissAfter1.wav
@@ -1125,31 +1083,73 @@ C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release
 C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Torkdrift\WsBmBossForestWaitFirstWindLv.wav
 C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Torkdrift\WsBvBossForestKockOverLv.wav
 C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\Torkdrift\WsSsBossForestSenario2StartMove.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdLifeMaxUp.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmAmiiboInvincibility.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgBossBreedaAppear.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgClearFanfare.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgEnemy01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgGrandMoon.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgGrandMoonCeremony.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgGrandMoonCeremony8bit.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgHomeRevive.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgHomeStarting.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgJangoAppear.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgMainMoon.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgNew.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgRaceFinalLap.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgRaceIntro.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgRaceLose.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgRaceWin.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgSeaFountain.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgStartCamera01.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgStartCamera01a.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgStartCamera01b.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgStartCamera02.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgSubMoon.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgSubMoon8bit.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmJgSubMoonPeach.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmMarioPlayGuitarPomcho.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Stuff\Sound\IDK\WsdRsBgmMarioPlayHula.wav
-C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\config\Mods.json
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\config\mods.json
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\SMO-Modding-Hub-Bot.exe
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\SMO-Modding-Hub-Bot.deps.json
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\SMO-Modding-Hub-Bot.runtimeconfig.json
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\SMO-Modding-Hub-Bot.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\SMO-Modding-Hub-Bot.pdb
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\ConcurrentCollections.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Discord.Net.Commands.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Discord.Net.Core.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Discord.Net.Interactions.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Discord.Net.Rest.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Discord.Net.Webhook.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Discord.Net.WebSocket.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\DSharpPlus.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\DSharpPlus.CommandsNext.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\DSharpPlus.Interactivity.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\DSharpPlus.SlashCommands.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Hosting.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\Newtonsoft.Json.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\System.Interactive.Async.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\System.IO.Pipelines.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\System.Linq.Async.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\System.Reactive.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\System.Text.Encodings.Web.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\System.Text.Json.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\bin\Release\net9.0\runtimes\win\lib\net9.0\System.Text.Encodings.Web.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\SMO-Modding-Hub-Bot.csproj.AssemblyReference.cache
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\SMO-Modding-Hub-Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\SMO-Modding-Hub-Bot.AssemblyInfoInputs.cache
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\SMO-Modding-Hub-Bot.AssemblyInfo.cs
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\SMO-Modding-Hub-Bot.csproj.CoreCompileInputs.cache
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\SMO-Modding-Hub-Bot.sourcelink.json
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\SMO-Modd.F7B274B8.Up2Date
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\SMO-Modding-Hub-Bot.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\refint\SMO-Modding-Hub-Bot.dll
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\SMO-Modding-Hub-Bot.pdb
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\SMO-Modding-Hub-Bot.genruntimeconfig.cache
+C:\Users\Nutzer\source\repos\Smo-Modding-Hub-Bot\SMO-Modding-Hub-Bot\obj\Release\net9.0\ref\SMO-Modding-Hub-Bot.dll
