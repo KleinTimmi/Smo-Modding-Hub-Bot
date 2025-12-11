@@ -53,7 +53,7 @@ namespace SMO_Modding_Hub_Bot.Commands
         #endregion
 
         #region libnws
-        [SlashCommand("libnws", "Sends a link to How to libnws")]
+        [SlashCommand("libnws", "Sends a link to libnws")]
         public async Task libnwsCommand(InteractionContext ctx)
         {
             await ctx.CreateResponseAsync("https://codeberg.org/Cookieso/libnws");
@@ -61,7 +61,7 @@ namespace SMO_Modding_Hub_Bot.Commands
         #endregion
 
         #region Downgrade
-        [SlashCommand("downgrade", "Sends a link to the smo Downgrade")]
+        [SlashCommand("downgrade", "Sends a link to the SMO Downgrade")]
         public async Task DowngradeCommand(InteractionContext ctx)
         {
             await ctx.CreateResponseAsync("https://github.com/Istador/odyssey-downgrade");

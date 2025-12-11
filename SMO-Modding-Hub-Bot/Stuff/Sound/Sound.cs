@@ -2,7 +2,7 @@
 using DSharpPlus.SlashCommands;
 using SMO_Modding_Hub_Bot.Commands;
 
-namespace SMO_Modding_Hub_Bot.NewFolder.Sound
+namespace SMO_Modding_Hub_Bot.Stuff.Sound
 {
     internal class Sound : ApplicationCommandModule
     {

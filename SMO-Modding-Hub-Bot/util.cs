@@ -8,7 +8,7 @@ using System.Diagnostics;
 
 public class Util
 {
-    public class AnsiAttribute : Attribute 
+    public class Ansi
     {
         //I know I could've just used the the ANSI from DSharp, but whatever
         //or do it manuelly but this is waaaay more readable
@@ -50,7 +50,7 @@ public class Util
     {
         #region SendEmbedAsync Utility Method
         /// <summary>
-        /// Builds a Discord embed with a title, description, and image URL,
+        /// Builds a Discord embed with a title, Description, and image URL,
         /// then sends it as a response to an interaction.
         /// Additionally, logs the embed details with an ANSI-formatted URL for console output.
         /// </summary>
@@ -90,7 +90,6 @@ public class Util
                     .AddEmbed(embed)
                     .AsEphemeral(!visibleForAll)
             );
-            Console.WriteLine(Util.Ansi.Cyan + "Hallo");
             Program.ExtraLogs.Enqueue(
                 $"{title} ({description} {Util.Ansi.BlueUnderline}{imageUrl}{Util.Ansi.Reset})"
             );

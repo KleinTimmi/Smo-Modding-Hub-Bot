@@ -13,7 +13,7 @@ namespace SMO_Modding_Hub_Bot.Commands
         /// <summary>
         /// this is used for random nummbers
         /// </summary>
-        private static readonly Random random = new Random();
+        private static readonly Random random = new();
         /// <summary>
         /// used for getting the request file name
         /// </summary>
@@ -47,19 +47,19 @@ namespace SMO_Modding_Hub_Bot.Commands
         /// this is used for random responses
         /// </summary>
         private static readonly string[] responses =
-        {
+        [
             ":thumbsup:",
             "https://cdn.discordapp.com/emojis/849804413027352576.webp?size=96",
             "https://cdn.discordapp.com/emojis/974893065288421416.webp?size=96",
             ":fire:",
             "https://cdn.discordapp.com/emojis/852812833385480232.webp?size=96",
             ":eyes:",
-        };
+        ];
         #endregion
 
             #region Ping
             [SlashCommand("ping", "Replies with Pong!")]
-            public async Task PingCommand(InteractionContext ctx)
+            public static async Task PingCommand(InteractionContext ctx)
             {
                 await ctx.CreateResponseAsync("Pong!");
             }
@@ -68,7 +68,7 @@ namespace SMO_Modding_Hub_Bot.Commands
         #region Request Commands
             #region request
             [SlashCommand("request", "Request stuff")]
-            public async Task RequestCommand(InteractionContext ctx, [Option("request", "Your request text")] string test)
+            public static async Task RequestCommand(InteractionContext ctx, [Option("request", "Your request text")] string test)
             {
                 if (string.IsNullOrWhiteSpace(test))
                 {
@@ -101,7 +101,7 @@ namespace SMO_Modding_Hub_Bot.Commands
 
             #region requestCreator
             [SlashCommand("requestCreator", "Request the mod creator Role")]
-            public async Task RequestCreatorCommand(InteractionContext ctx, [Option("Link", "Link to where you send a showcase")] string Link)
+            public static async Task RequestCreatorCommand(InteractionContext ctx, [Option("Link", "Link to where you send a showcase")] string Link)
             {
                 // chose random index
                 int index = random.Next(responses.Length);
@@ -123,9 +123,9 @@ namespace SMO_Modding_Hub_Bot.Commands
 
             #region requests
             [SlashCommand("requests", "ONLY ADMINS CAN USE THIS")]
-            public async Task RequestsCommand(InteractionContext ctx, [Option("debug", "no")] string debug = "no")
+            public static async Task RequestsCommand(InteractionContext ctx, [Option("debug", "no")] string debug = "no")
             {
-                var JsonReader = new config.JSONReader();
+                var JsonReader = new Config.JSONReader();
                 await JsonReader.ReadJson();
                 ulong[] ownerIds = JsonReader.admins.ToArray();
 
@@ -139,7 +139,7 @@ namespace SMO_Modding_Hub_Bot.Commands
 
                     if (content.Length > 2000)
                     {
-                        content = content.Substring(0, 1988) + "\n... (more)";
+                        content = string.Concat(content.AsSpan(0, 1988), "\n... (more)");
                     }
 
                     await ctx.CreateResponseAsync(
@@ -165,7 +165,7 @@ namespace SMO_Modding_Hub_Bot.Commands
         #region Random Commands
             #region randomcap
             [SlashCommand("randomcap", "Draw a random cap from https://smo.monsterdruide.one/resources/ItemCap.json")]
-            public async Task RandomCapCommand(
+            public static async Task RandomCapCommand(
                 InteractionContext ctx,
                 [Option("visible", "Should the result be visible for everyone?")] bool visibleForAll = false)
             {
@@ -192,7 +192,7 @@ namespace SMO_Modding_Hub_Bot.Commands
 
             #region randomoutfit
             [SlashCommand("randomoutfit", "Draw a random outfit from the online JSON")]
-            public async Task RandomOutfitCommand(
+            public static async Task RandomOutfitCommand(
                 InteractionContext ctx,
                 [Option("visible", "Should the result be visible for everyone?")] bool visibleForAll = false)
             {
@@ -219,7 +219,7 @@ namespace SMO_Modding_Hub_Bot.Commands
 
         #region randomstage
         [SlashCommand("randomstage", "Draw a random stage from Google Sheet")]
-        public async Task RandomStageCommand(
+        public static async Task RandomStageCommand(
             InteractionContext ctx,
             [Option("visible", "Should the result be visible for everyone?")] bool visibleForAll = false,
             [Option("onlyhome", "Restrict to stages ending with WorldHomeStage")] bool onlyHome = false)
@@ -276,7 +276,7 @@ namespace SMO_Modding_Hub_Bot.Commands
 
             #region WhatStage
             [SlashCommand("whatstage", "Shows info and image for a given stage")]
-            public async Task WhatStageCommand(
+            public static async Task WhatStageCommand(
             InteractionContext ctx,
             [Option("name", "Internal stage name, e.g. WaterfallWorldHomeStage")] 
             [Autocomplete(typeof(StageAutocompleteProvider))] string stageName,
@@ -317,7 +317,7 @@ namespace SMO_Modding_Hub_Bot.Commands
                 }
 
                 // Bild-URL (achte auf .jpg statt .png)
-                string imageUrl = $"https://raw.githubusercontent.com/Amethyst-szs/smo-thumbnail-database/main/low/{match.Name}.jpg";
+                string imageUrl = $"https://raw.githubusercontent.com/Amethyst-szs/smo-thumbnail-database/main/{Program.Config.quality}/{match.Name}.jpg";
 
                 await Util.EmbedHelper.SendEmbedAsync(ctx, match.Name, match.Description, imageUrl, visibleForAll);
             }
