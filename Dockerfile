@@ -1,7 +1,7 @@
 # -------------------------
 # 1️⃣ Build Stage
 # -------------------------
-FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 WORKDIR /src
 
 # Nur Projektordner kopieren
@@ -15,7 +15,7 @@ RUN dotnet publish SMO-Modding-Hub-Bot/SMO-Modding-Hub-Bot.csproj -c Release -o 
 # -------------------------
 # 2️⃣ Runtime Stage
 # -------------------------
-FROM mcr.microsoft.com/dotnet/runtime:8.0
+FROM mcr.microsoft.com/dotnet/runtime:9.0
 WORKDIR /app
 
 COPY --from=build /app/publish .
