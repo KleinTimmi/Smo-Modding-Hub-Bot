@@ -32,6 +32,12 @@ namespace SMO_Modding_Hub_Bot
             Config = new Config.JSONReader();
             await Config.ReadJson();
 
+            var envToken = Environment.GetEnvironmentVariable("DISCORD_TOKEN");
+            if (!string.IsNullOrWhiteSpace(envToken))
+            {
+                Config.token = envToken;
+            }
+
 
             var discordConfig = new DiscordConfiguration
             {

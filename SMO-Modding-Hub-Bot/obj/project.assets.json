@@ -6442,19 +6442,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nutzer\\.nuget\\packages\\": {}
+    "C:\\Users\\Tom\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nutzer\\source\\repos\\Smo-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj",
+      "projectUniqueName": "C:\\Users\\Tom\\source\\repos\\Smo-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj",
       "projectName": "SMO-Modding-Hub-Bot",
-      "projectPath": "C:\\Users\\Nutzer\\source\\repos\\Smo-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj",
-      "packagesPath": "C:\\Users\\Nutzer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nutzer\\source\\repos\\Smo-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\obj\\",
+      "projectPath": "C:\\Users\\Tom\\source\\repos\\Smo-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\SMO-Modding-Hub-Bot.csproj",
+      "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tom\\source\\repos\\Smo-Modding-Hub-Bot\\SMO-Modding-Hub-Bot\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Nutzer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6480,7 +6485,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -6530,12 +6535,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[9.0.12, 9.0.12]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[9.0.12, 9.0.12]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[9.0.12, 9.0.12]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[9.0.12, 9.0.12]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
